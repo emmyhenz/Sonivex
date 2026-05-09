@@ -110,16 +110,6 @@ or use live server.
 
 ---
 
-# 📱 PWA Support
-
-Install directly from browser:
-
-Chrome → Menu → **Install App**
-
-Works like native app.
-
----
-
 # 🔥 Built With
 
 - HTML5
@@ -135,7 +125,10 @@ Works like native app.
 **EmmyHenz**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/emmyhenz
+
+  <img src="https://api.visitorbadge.io/api/visitors?path=emmyhenz.movie&label=VISITORS&countColor=%23FF4500" />
+</div>
 
 ---
 
