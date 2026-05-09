@@ -26,27 +26,7 @@
 # 📸 Interface Preview
 
 ## Home Page
-<img src="./screenshots/home.png" width="100%" />
-
----
-
-## Search Page
-<img src="./screenshots/search.png" width="100%" />
-
----
-
-## Now Playing
-<img src="./screenshots/player.png" width="100%" />
-
----
-
-## Downloads
-<img src="./screenshots/downloads.png" width="100%" />
-
----
-
-## About Page
-<img src="./screenshots/about.png" width="100%" />
+<img src="https://i.ibb.co/5WpJcdLj/1778329670085.jpg" width="100%" />
 
 ---
 
@@ -57,10 +37,6 @@ sonivex/
 │── index.html
 │── style.css
 │── script.js
-│── manifest.json
-│── service-worker.js
-│── assets/
-│── screenshots/
 ```
 
 ---
