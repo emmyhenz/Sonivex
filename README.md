@@ -1,4 +1,6 @@
-# 🎵 Sonivex
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=SONIVEX&fontSize=80&fontAlign=50&fontAlignY=40&desc=Premium%20Music%20Free%20Streaming%20Platform&descAlign=50&descAlignY=60" width="100%"/>
+</div>
 
 > Premium cloud music streaming web app with downloads, favorites, offline mode, and beautiful modern UI.
 
@@ -147,3 +149,4 @@ If you like Sonivex:
 MIT License
 
 Free to use and modify.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
