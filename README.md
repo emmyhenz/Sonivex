@@ -127,7 +127,7 @@ or use live server.
 GitHub:
 https://github.com/emmyhenz
 
-  <img src="https://api.visitorbadge.io/api/visitors?path=emmyhenz.movie&label=VISITORS&countColor=%23FF4500" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=emmyhenz.sonivex&label=VISITORS&countColor=%23FF4500" />
 </div>
 
 ---
