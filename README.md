@@ -65,7 +65,7 @@ Click below to clone + deploy automatically:
 
 Click below:
 
-[![Register on Render](https://img.shields.io/badge/Register-Render-46E3B7?style=for-the-badge&logo=render)](https://render.com/register)
+[![Register on Render](https://img.shields.io/badge/Register-Render-7C3AED?style=for-the-badge&logo=render&logoColor=white)](https://render.com/register)
 
 ---
 
@@ -110,7 +110,7 @@ Render will begin deployment automatically.
 After deployment you’ll get a URL like:
 
 ```bash
-https://sonivex.onrender.com
+https://xxxxxxx.onrender.com
 ```
 
 Open it and enjoy.
