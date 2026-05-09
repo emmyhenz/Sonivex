@@ -59,6 +59,63 @@ Click below to clone + deploy automatically:
 
 
 ---
+# 🚀 Deploy On [Render](https://render.com?utm_source=chatgpt.com)
+
+## Step 1: Create free Render account
+
+Click below:
+
+[![Register on Render](https://img.shields.io/badge/Register-Render-46E3B7?style=for-the-badge&logo=render)](https://render.com/register)
+
+---
+
+## Step 2: Open Render Dashboard
+
+After signing in, open:
+
+https://dashboard.render.com
+
+---
+
+## Step 3: Create New Static Site
+
+Click:
+
+**New +** → **Static Site**
+
+---
+
+## Step 4: Clone git
+
+or directly import:
+
+```bash
+https://github.com/emmyhenz/sonivex
+```
+
+---
+
+## Step 5: Deploy
+
+Click:
+
+✅ **Create Static Site**
+
+Render will begin deployment automatically.
+
+---
+
+## Step 6: Your site is live 🎉
+
+After deployment you’ll get a URL like:
+
+```bash
+https://sonivex.onrender.com
+```
+
+Open it and enjoy.
+
+---
 
 # 🛠 Local Installation
 
