@@ -55,12 +55,8 @@ Click below:
 
 Click below to clone + deploy automatically:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/sonivex)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/emmyhenz/sonivex)
 
-> Replace `YOUR_USERNAME` with your GitHub username.
-
-Example:
-https://github.com/emmyhenz/sonivex
 
 ---
 
@@ -69,7 +65,7 @@ https://github.com/emmyhenz/sonivex
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sonivex.git
+git clone https://github.com/emmyhenz/sonivex
 ```
 
 Enter folder:
